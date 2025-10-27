@@ -60,4 +60,3 @@ Worked with **LOD expressions**, **mapping**, and **interactive dashboards** to 
 
 ---
 
-> 🌟 *"Striving to combine technology, security, and innovation to make systems smarter and safer."*
