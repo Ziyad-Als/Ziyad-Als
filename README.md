@@ -35,7 +35,7 @@ Worked with **LOD expressions**, **mapping**, and **interactive dashboards** to 
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| | |
+[Secure Messaging Project](https://github.com/Ziyad-Als/secure-messaging-rsa-dh) | Implemented a client-server messaging system using RSA encryption for authentication and Diffie-Hellman key exchange for shared secret generation. | Java, Git, GitHub |
 | | |
 
 ---
